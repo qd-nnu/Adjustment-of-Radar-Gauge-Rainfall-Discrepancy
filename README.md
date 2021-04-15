@@ -1,4 +1,4 @@
-# RME-model
+# Radar Dynamic projection
 Matlab Codes for Adjustment of Radar-Gauge Rainfall Discrepancy Due to Raindrop Drift and Evaporation
 
 ## Description
@@ -23,7 +23,7 @@ We have published an academic paper which titled **“Adjustment of Radar‐Gaug
 
 Please visit <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025517> for more details and results of experiments.
 
-Citation: Dai Q, Yang Q, Han D, Rico‐Ramirez M A, Zhang S. Adjustment of radar‐gauge rainfall discrepancy due to raindrop drift and evaporation using the Weather Research and Forecasting model and dual‐polarization radar[J]. Water Resources Research, 2019, 55(11): 9211-9233.
+Citation: Dai Q, Yang Q, Han D, Rico‐Ramirez M A, Zhang S. Adjustment of radar‐gauge rainfall discrepancy due to raindrop drift and evaporation using the Weather Research and Forecasting model and dual‐polarization radar. Water Resources Research, 2019, 55(11): 9211-9233.
 
 ## Contact
 If you have some problems or find some bugs in the codes, please email: qd_gis@163.com.
