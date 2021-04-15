@@ -1,4 +1,4 @@
-# Radar Dynamic projection
+# Dynamic projection for radar rainfall estimates
 Matlab Codes for Adjustment of Radar-Gauge Rainfall Discrepancy Due to Raindrop Drift and Evaporation
 
 ## Description
