@@ -13,13 +13,13 @@ The files in the runfiles/directory are used to set parameters and run the Discr
 These runfiles are included:
 1.	**`run_files.m`**: Script file that calls for other functions of the model
 2.	**`ComputeRainDSD (path)`**: Compute DSD of rainfall
-3.	**`RME_SetupModel(path)`**: STEP 1 of RME model. Get the permanent info to run the model, including domain_net and layers.
-4.	**`RME_InitModel (path, events)`**: STEP 2 of RME model. Get the event basic info to run the model.
-5.	**`RME_RunModel (path, events)`**: STEP 3 of RME model. Simulate the raindrop microphysical process for each event.
-6.	**`RME_PostModel (path, events)`**: STEP 4 of RME model. Process the result of the raindrop microphysical simulation.
+3.	**`RME_SetupModel(path)`**: *STEP 1* of RME model. Get the permanent info to run the model, including domain_net and layers.
+4.	**`RME_InitModel (path, events)`**: *STEP 2* of RME model. Get the event basic info to run the model.
+5.	**`RME_RunModel (path, events)`**: *STEP 3* of RME model. Simulate the raindrop microphysical process for each event.
+6.	**`RME_PostModel (path, events)`**: *STEP 4* of RME model. Process the result of the raindrop microphysical simulation.
 
 ## Publication
-We have published an academic paper which titled “Adjustment of Radar‐Gauge Rainfall Discrepancy Due to Raindrop Drift and Evaporation Using the Weather Research and Forecasting Model and Dual‐Polarization Radar”.
+We have published an academic paper which titled **“Adjustment of Radar‐Gauge Rainfall Discrepancy Due to Raindrop Drift and Evaporation Using the Weather Research and Forecasting Model and Dual‐Polarization Radar”**.
 
 Please visit <https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019WR025517> for more details and results of experiments.
 
