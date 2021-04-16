@@ -8,7 +8,7 @@ It must be fully considered that raindrops observed by weather radars cannot fal
 We provide here some matlab codes for adjustment of radar-gauge rainfall discrepancy due to raindrop microphysics evolution. All these codes are used in our experiments.
 	
 ### Runfiles
-The files in the runfiles/directory are used to set parameters and run the Discrepancy Adjustment Model. You can create your own runfiles by copying an existing one and then run with different parameters and runfile combination.
+The files in the runfiles/directory are used to set parameters and run the Raindrop Microphysics Evolution Model. You can create your own runfiles by copying an existing one and then run with different parameters and runfile combination.
 
 These runfiles are included:
 1.	**`run_files.m`**: Script file that calls for other functions of the model
