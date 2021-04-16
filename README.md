@@ -11,8 +11,8 @@ We provide here some matlab codes for adjustment of radar-gauge rainfall discrep
 The files in the runfiles/directory are used to set parameters and run the Raindrop Microphysics Evolution Model. You can create your own runfiles by copying an existing one and then run with different parameters and runfile combination.
 
 These runfiles are included:
-1.	**`run_files.m`**: Script file that calls for other functions of the model
-2.	**`ComputeRainDSD (path)`**: Compute raindrop size distribution (DSD) of rainfall
+1.	**`run_files.m`**: Script file that calls for other functions of the model.
+2.	**`ComputeRainDSD (path)`**: Compute raindrop size distribution (DSD) of rainfall.
 3.	**`RME_SetupModel(path)`**: *STEP 1* of RME model. Get the permanent info to run the model, including domain_net and layers.
 4.	**`RME_InitModel (path, events)`**: *STEP 2* of RME model. Get the event basic info to run the model.
 5.	**`RME_RunModel (path, events)`**: *STEP 3* of RME model. Simulate the raindrop microphysical process for each event.
